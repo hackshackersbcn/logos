@@ -1,2 +1,2 @@
-# logos
-the meetup logos
+# Hacks/Hackers Barcelona logos
+Meetup logos for branding, marketing, etc.
